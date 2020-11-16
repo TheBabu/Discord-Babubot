@@ -1,0 +1,24 @@
+{
+  "name": "discord-babubot",
+  "version": "1.0.0",
+  "description": "A bot for autoreaction management!",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "mongoose": "^5.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBabu/Discord-Babubot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBabu/Discord-Babubot/issues"
+  },
+  "homepage": "https://github.com/TheBabu/Discord-Babubot#readme"
+}
