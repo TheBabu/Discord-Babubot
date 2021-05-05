@@ -1,0 +1,6 @@
+{
+	"token": "Insert token here and rename to config.json",
+	"prefix": ".",
+	"default_global_cooldown": 0.2,
+	"default_min_cooldown": 0.05
+}
